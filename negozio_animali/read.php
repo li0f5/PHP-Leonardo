@@ -1,6 +1,6 @@
 <!-- Estensioni:
-TODO Aggiungere la possibilità di ordinare e filtrare la tabella degli animali.
-TODO Implementare la ricerca di animali per nome, specie o età.
+Aggiungere la possibilità di ordinare e filtrare la tabella degli animali.
+Implementare la ricerca di animali per nome, specie o età.
 -->
 <?php
 //connect to database
